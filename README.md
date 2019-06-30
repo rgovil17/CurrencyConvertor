@@ -1,2 +1,4 @@
-# CurrencyConvertor
-First Android App!
+# Currency Convertor
+Converts INR to USD
+
+### Screenshots
